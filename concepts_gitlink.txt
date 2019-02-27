@@ -1,0 +1,24 @@
+
+Brief description of 20 topics/concepts that were applied in the integrative project. 
+
+
+1. User Stories - SCRUM application specification from user's perspective
+2. Responsive page design principles - This is done through media queries
+3. Source Control - We use git for source control and github for the web hosted git repository
+4. Virtualization - Used virtual box for client side Virtualization; Varant is another tool we used to build virtual dev environment
+5. Operating Systems (Unix/Linux) - Interacting with Linux CLI (doing ssh remote connections, making directories, etc)
+6. principles of Informmation Architecture and UX - Intuitive and simple design, easy to navigate
+7. Software Development Life Cycle (SLDC) - In this case we used SCRUM and bi-weekly projects are sprints up until this final version
+8. IDEs - In my case I've used Visual Studio Code as editor, it's easy to jump through code and git integration
+9. Multi-tier Architecture - Separation of presentation, business logic, and data later
+10. Frameworks and Boilerplates- In this projects we used libraries JQuery from jquery frame work
+11. Code Testing principles - For this project Unit Testing and UAT testing are done intensively; made sure that the user stories are addressed
+12. Trouble shooting  - Trouble shooting methodology like in Lean Six Sigma practices or other trouble shooting methods to reduce trial and error
+13. Requirements for application Development - Undertanding the functional and non-functional requirement for this project
+14. HTML - Writing HTML5 and familiarize the html5 sematic tags 
+15. CSS - Web page styling
+16. Javascript - Using basic JavaScript for client side scripting
+17. Web Development Environment - For this project we created a virtual web environment
+18. Browser Tools - Using browser web debugger
+19. Design Patters - MVC pattern; Model View Controller
+20. Deployment - methods on deploying to the web, in this case we deploy the code in a cloud hosted server; where a script is running in the background that updates the code when the code is updated in github repo
