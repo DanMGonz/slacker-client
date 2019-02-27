@@ -1,4 +1,5 @@
 
+github project link: https://github.com/DanMGonz/slacker-client.git
 Brief description of 20 topics/concepts that were applied in the integrative project. 
 
 
