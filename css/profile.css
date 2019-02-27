@@ -100,3 +100,20 @@ span.label{
     display:inline-block;
     color : #5B12BD;    
 }
+
+@media (max-width: 768) {
+    aside{
+      padding-top : 100px;
+
+    }
+    main {
+      width : 100%;
+    }
+    
+   
+    aside img {
+      width : 60%;
+      height: 40%;
+      display: none;
+    }
+  }
