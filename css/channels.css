@@ -135,7 +135,7 @@ div {
 .footer-block {
     vertical-align: bottom;
     position: fixed;
-    width: 95%;
+    width: 80%;
     bottom : 2em;
     height: 5em;
 }
