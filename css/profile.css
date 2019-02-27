@@ -67,18 +67,19 @@ main{
 h1{
     
     font-size: 3rem;
-    color : #000099;
+    color : #5B12BD;  
 }
 h2 {
     display: inline-block;
     font-size: 1.5rem;
     margin-right: 8rem;
-    color : #000099;
+    color : #5B12BD;
 }
 h3{
     display: inline-block;
     font-size: 1rem;
-    color : #000099;
+    color : #5B12BD;
+    font-family: 'Montserrat';
 }
 p{
     line-height: 2rem;
@@ -97,4 +98,5 @@ span.label{
     font-weight: 600;
     min-width: 8rem;
     display:inline-block;
+    color : #5B12BD;    
 }
