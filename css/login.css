@@ -1,7 +1,6 @@
 *{
     box-sizing: border-box;
-    font-family: 'Montserrat',sans-serif;
-    
+    font-family: 'Montserrat', sans-serif;
 
 }
 html,body{
@@ -29,3 +28,25 @@ main{
     width: 49%;
     float: left;
 }
+
+h1{
+    font-size: 2rem;
+}
+h1,h2,h3{
+    color: #5B12BD;  
+ }
+ h4,p,h6{
+   color: #AFAFAF
+ }
+  /*mobile only*/
+  @media only screen and (max-width: 768px) {
+    aside{
+      width: 100%;
+    }
+    main {
+      width: 100%;
+    }
+    aside img {
+      height: auto;
+    }
+  }
